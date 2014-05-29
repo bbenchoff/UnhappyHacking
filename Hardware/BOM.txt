@@ -1,0 +1,17 @@
+Part      Value         Package     Description                  PROD_ID  VALUE        
+
+D1        3v6           DO35-7      Schottky Diode               Mouser Part 78-TZX3V6A                   
+D2        3v6           DO35-7      Schottky Diode               Mouser Part 78-TZX3V6A
+JP1       USBSMD        USB-MINIB   USB Connectors               Mouser Part 649-10033526-N3212LF
+R1        10k           AXIAL-0.3EZ Resistor                                           
+R2        10k           AXIAL-0.3EZ Resistor                                           
+R3        68R           AXIAL-0.3EZ Resistor                                           
+R4        68R           AXIAL-0.3EZ Resistor                                           
+R5        10k           AXIAL-0.3EZ Resistor                                           
+R6        1k5           AXIAL-0.3EZ Resistor                                           
+R7        10k           AXIAL-0.3EZ Resistor                                                                                 
+U$1       Red	        CHERRY-MX-I                                                    
+U$2       Black         CHERRY-MX-I                                                    
+U$3       Brown         CHERRY-MX-I                                                    
+U$4       Blue          CHERRY-MX-I                                                    
+U1        TINY85        DIP08       Atmel 8-pin 2/4/8kB flash uC IC-09445 TINY85-20-DIP
