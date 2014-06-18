@@ -25,7 +25,7 @@ the file appropriate for the given clock rate.
 #define cnt     r19
 #define x3      r20
 #define x4      r21
-#define x5      r22
+#define x5		r22
 #define bitcnt  x5
 #define phase   x4
 #define leap    x4
